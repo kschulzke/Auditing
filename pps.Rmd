@@ -1,0 +1,19 @@
+---
+title: "PPS Notebook"
+output: html_notebook
+---
+
+This notebook explores PPS audit sampling, primarily using the pps package. 
+
+# Libraries
+
+```{r}
+library(pps)
+```
+
+# Data
+```{r}
+data(calif)
+data(califcty)
+```
+
